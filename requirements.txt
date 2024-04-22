@@ -6,7 +6,6 @@ beautifulsoup4==4.9.3
 blinker==1.7.0
 bson==0.5.10
 cachetools==5.3.3
-cairocffi @ file:///C:/Users/qqkan/pipwin/cairocffi-1.3.0-cp38-cp38-win_amd64.whl#sha256=50f191ab01ac7c10e483cd2e1e73e6cd71d97972215a1974cb6ce327618d21d2
 CairoSVG==2.7.1
 certifi==2024.2.2
 cffi==1.16.0
